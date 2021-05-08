@@ -10,6 +10,8 @@
 * [JVM Architecture](https://youtu.be/ZBJ0u9MaKtM)
 * [Garbage Collection in Java](https://youtu.be/UnaNQgzw4zY)
 
-#### Conferences
-
+#### Programming
+* [Rob Pike's 5 Rules of Programming](https://users.ece.utexas.edu/~adnan/pike.html)
+* [SOLID Principles](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
 * [The Art of Code - Dylan Beattie](https://youtu.be/6avJHaC3C2U)
+* [Rust, Julia, and Go: Disruptive New Programming Languages Changing the Face of Computing](https://youtu.be/6qCH7Y2rc_w)
