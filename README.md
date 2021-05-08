@@ -1,5 +1,15 @@
 
 # Today I learned
 
-* [Concurrency is Not Parallelism](https://www.youtube.com/watch?v=oV9rvDllKEg&t=1105s&ab_channel=gnbitcom)
+#### Concurrency
+
+* [Concurrency is Not Parallelism](https://youtu.be/oV9rvDllKEg)
 * [Threads, Processes, Cores](https://stackoverflow.com/questions/34689709/java-threads-and-number-of-cores)
+
+#### JVM
+* [JVM Architecture](https://youtu.be/ZBJ0u9MaKtM)
+* [Garbage Collection in Java](https://youtu.be/UnaNQgzw4zY)
+
+#### Conferences
+
+* [The Art of Code - Dylan Beattie](https://youtu.be/6avJHaC3C2U)
