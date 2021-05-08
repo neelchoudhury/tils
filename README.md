@@ -13,5 +13,8 @@
 #### Programming
 * [Rob Pike's 5 Rules of Programming](https://users.ece.utexas.edu/~adnan/pike.html)
 * [SOLID Principles](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
-* [The Art of Code - Dylan Beattie](https://youtu.be/6avJHaC3C2U)
 * [Rust, Julia, and Go: Disruptive New Programming Languages Changing the Face of Computing](https://youtu.be/6qCH7Y2rc_w)
+
+#### Meta
+* [The Friendship that made Google huge](https://www.newyorker.com/magazine/2018/12/10/the-friendship-that-made-google-huge) - Jeff Dean, Sanjay Ghemawat - Pair Programming
+* [The Art of Code - Dylan Beattie](https://youtu.be/6avJHaC3C2U)
