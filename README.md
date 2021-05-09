@@ -13,6 +13,7 @@
 #### Programming
 * [Rob Pike's 5 Rules of Programming](https://users.ece.utexas.edu/~adnan/pike.html)
 * [SOLID Principles](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+* [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/)
 * [Rust, Julia, and Go: Disruptive New Programming Languages Changing the Face of Computing](https://youtu.be/6qCH7Y2rc_w)
 
 #### Meta
