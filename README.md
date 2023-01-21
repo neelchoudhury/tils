@@ -1,6 +1,10 @@
 
 # Today I Learned
 
+### Golang
+
+* [Golang Memory Model](https://go.dev/ref/mem#:~:text=Incorrect%20compilation%20Conclusion-,Introduction,variable%20in%20a%20different%20goroutine.)
+
 #### Concurrency
 
 * [Concurrency is Not Parallelism](https://youtu.be/oV9rvDllKEg)
