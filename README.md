@@ -14,6 +14,9 @@
 * [JVM Architecture](https://youtu.be/ZBJ0u9MaKtM)
 * [Garbage Collection in Java](https://youtu.be/UnaNQgzw4zY)
 
+#### Design Patterns
+* [Observer Patern vs Pub Sub Pattern](https://pub.towardsai.net/observer-pattern-vs-pub-sub-pattern-7f467bcf5fe)
+
 #### Programming
 * [Rob Pike's 5 Rules of Programming](https://users.ece.utexas.edu/~adnan/pike.html)
 * [SOLID Principles](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
