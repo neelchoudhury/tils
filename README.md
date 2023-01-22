@@ -3,6 +3,7 @@
 
 #### Golang
 
+* [Effective Go](https://go.dev/doc/effective_go)
 * [Golang Memory Model](https://go.dev/ref/mem#:~:text=Incorrect%20compilation%20Conclusion-,Introduction,variable%20in%20a%20different%20goroutine.)
 
 #### Concurrency
